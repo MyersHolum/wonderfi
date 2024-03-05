@@ -1,0 +1,31 @@
+.DS_Store
+node_modules
+{*SCA VERSION*}/node_modules
+{*SCA VERSION*}/.nsdeploy
+{*SCA VERSION*}/DeployDistributionAdvanced
+{*SCA VERSION*}/DeployDistributionAdvancedSS2
+{*SCA VERSION*}/LocalDistributionAdvanced
+
+MHI_Extensions/gulp/config/.nsdeploy
+MHI_Extensions/gulp/config/config.json
+MHI_Extensions/node_modules
+MHI_Extensions/.nsdeploy
+MHI_Extensions/package-lock.json
+MHI_Extensions/payload.json
+MHI_Extensions/DeployDistribution
+MHI_Extensions/LocalDistribution
+MHI_Extensions/Workspace/Extras
+MHI_Extensions/tmp
+
+MHI_Theme/gulp/config/.nsdeploy
+MHI_Theme/gulp/config/config.json
+MHI_Theme/node_modules
+MHI_Theme/.nsdeploy
+MHI_Theme/package-lock.json
+MHI_Theme/DeployDistribution
+MHI_Theme/LocalDistribution
+MHI_Theme/LocalDistribution/tmp
+MHI_Theme/Workspace/Extras
+.vscode
+.idea
+.DS_Store
